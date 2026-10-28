@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Anshhh111
-- 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning Alot.
+
 
 
 <!---
